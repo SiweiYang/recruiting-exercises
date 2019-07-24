@@ -1,0 +1,4 @@
+venv
+.hypothesis
+.coverage
+__pycache__
